@@ -8,9 +8,9 @@ import os
 # pip install -U py-cord
 
 # telegram api application config
-app_name = 'put your app name here'
-app_id = app id here
-app_hash = 'app hash ehre'
+app_name = 'put your app name here' # App name
+app_id = 0 # App id
+app_hash = 'app hash ehre' # App hash
 
 # discord webhook link
 webhook_url = 'discord webhook here'
