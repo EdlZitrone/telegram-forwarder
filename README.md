@@ -1,5 +1,9 @@
 # Telegram Forwarder
 
+## Preview
+
+![alt text](https://cdn.discordapp.com/attachments/1054003506744414210/1171055134734823434/image.png?ex=655b4915&is=6548d415&hm=1cd10921fd6cce945098258e4827391ad2011ee983e7ffa079d35a66eea7275a&)
+
 ## Setup
 
 ### Python modules
