@@ -9,11 +9,9 @@ pip install -U py-cord
 ```
 
 ### Telegram bot.
-```
 Login to to your Telegram core.
 Go to your [Telegram apps page](https://my.telegram.org/auth?to=apps) and fill out the form.
 Copy your api_name, api_id and api_hash and paste it in main.py in line 11 to 13.
-```
 
 ### Discord webhook
 ```
